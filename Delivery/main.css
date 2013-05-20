@@ -1,0 +1,28 @@
+body
+{
+	background: url(img/vegan_meal.png)  #d1e8d0 no-repeat center;
+	padding: 5px;
+}
+
+#flash
+{
+	margin: 0px 250px;
+}
+
+#flash p
+{
+	font-size: 24px;
+	color: #656565;
+	text-align:center;
+}
+
+#flash p a
+{
+	margin-top: -50px;
+}
+
+footer
+{
+	font-size: 14px;
+	color: #656565; 
+}
